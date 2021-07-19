@@ -1,0 +1,22 @@
+- defaults:
+    link:
+      create: true
+      relink: true
+      force: true
+
+- clean: ['~']
+
+- link:
+     ~/.config/i3: i3
+     ~/.config/neofetch: neofetch
+     ~/.config/polybar: polybar
+     ~/.config/rofi: rofi
+     ~/.oh-my-zsh: oh-my-zsh
+     ~/.scripts: scripts
+     ~/.urxvt:  urxvt
+     ~/.Xresources: Xresources
+     ~/.vim: vim
+     ~/.bashrc: bashrc
+     ~/.vimrc: vimrc
+     ~/.zshrc: zshrc
+

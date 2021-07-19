@@ -1,0 +1,1 @@
+/home/kender/.dotfiles/./urxvt/.prueba.txt

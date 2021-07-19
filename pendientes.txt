@@ -1,0 +1,11 @@
+1. quitar los bordes en URXBT cuando este vim abierto
+2. activar el copiar y pegar en urxbt
+3. activar bordes redondiados
+4. modificar el neofech para mostrar imagenes
+5. modificar margenes de polybar
+6. deshabilitar iconos que no recuerdo como se llaman de la consola de la consola.
+7. icono de wifi, notificaciones y spotify en polybar
+8. misma typografia en todos lados
+9. modificar barra de vim 
+10. activar iconos en urxvt para zsh y vim 
+
