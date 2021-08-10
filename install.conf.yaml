@@ -11,12 +11,10 @@
      ~/.config/neofetch: neofetch
      ~/.config/polybar: polybar
      ~/.config/rofi: rofi
-     ~/.oh-my-zsh: oh-my-zsh
      ~/.scripts: scripts
      ~/.urxvt:  urxvt
      ~/.Xresources: Xresources
      ~/.vim: vim
-     ~/.bashrc: bashrc
-     ~/.vimrc: vimrc
+     ~/.oh_my_zsh/themes/gotzilla.zsh.theme: oh_my_zsh/themes/gotzilla.zsh.theme 
      ~/.zshrc: zshrc
 
