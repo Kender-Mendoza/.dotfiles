@@ -9,4 +9,5 @@
 - link:
      ~/.oh-my-zsh/themes: oh-my-zsh/themes 
      ~/.zshrc: oh-my-zsh/zshrc
-
+     ~/.vimrc: vimrc
+     ~/.vim: vim
