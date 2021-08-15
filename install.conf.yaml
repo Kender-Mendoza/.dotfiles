@@ -7,13 +7,6 @@
 - clean: ['~']
 
 - link:
-     ~/.config/neofetch: neofetch
-     ~/.config/polybar: polybar
-     ~/.config/rofi: rofi
-     ~/.scripts: scripts
-     ~/.vim: vim
-     ~/.oh_my_zsh/themes/gotzilla.zsh.theme: oh_my_zsh/themes/gotzilla.zsh.theme 
-     ~/.zshrc: zshrc
-     ~/.vimrc: vimrc
-     ~/.oh-my-zsh/themes/gotzilla.zsh-theme: oh-my-zsh/themes/gotzilla.zsh.theme 
+     ~/.oh-my-zsh/themes: oh-my-zsh/themes 
+     ~/.zshrc: oh-my-zsh/zshrc
 

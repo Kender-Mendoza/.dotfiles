@@ -1,0 +1,17 @@
+# path to your oh-my-zsh installation.
+export ZSH="/home/kender/.oh-my-zsh"
+
+# Theme 
+ZSH_THEME="gotzilla"
+
+# Plugins
+plugins=(git)
+
+# Alias
+alias gc="git commit"
+alias gdf="git diff"
+alias gdm="git diff master"
+alias ssh-agent="eval \"$(ssh-agent -s)\""
+# source
+source $ZSH/oh-my-zsh.sh
+
