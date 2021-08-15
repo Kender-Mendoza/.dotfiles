@@ -7,14 +7,13 @@
 - clean: ['~']
 
 - link:
-     ~/.config/i3: i3
      ~/.config/neofetch: neofetch
      ~/.config/polybar: polybar
      ~/.config/rofi: rofi
      ~/.scripts: scripts
-     ~/.urxvt:  urxvt
-     ~/.Xresources: Xresources
      ~/.vim: vim
      ~/.oh_my_zsh/themes/gotzilla.zsh.theme: oh_my_zsh/themes/gotzilla.zsh.theme 
      ~/.zshrc: zshrc
+     ~/.vimrc: vimrc
+     ~/.oh-my-zsh/themes/gotzilla.zsh-theme: oh-my-zsh/themes/gotzilla.zsh.theme 
 
